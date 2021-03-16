@@ -19,6 +19,4 @@ A plataforma conta com varias funcionalidades e abaixo segue uma relação de ta
  
 ## PDV
   ### Windows
-  No ambiente do PDV é necessário realizar 2 configurações, copie a dll veraciti.dll presente nesse repositório para o computador e em seguida copie para mesma pasta o configurador da lib, execute e preencha os dados solicitador pelo configurador e por fim salve. Ao salvar será gerado um arquivo xml na pasta da DLL, esse é o arquivo de configuração da LIB.
-   Agora basta indicar ao PDV que carregue a dll veraciti.dll, para isso renomeia a dll ou então faça o apontamento no PDV.
-   Esses passos ja devem deixar seu equipamento pronto para ser monitorado, abra a automação comercial, comunique com SAT e verifique na plataforma as informações do SAT
+  No ambiente windows basta abrir o executável `ConfiguradorLibMonitoramento.exe` presente nesse repositório, preencha os dados conforme solicitado e ao fim Salve. Feito isso o SAT já pode ser monitorado, abra o software de automação e a plataforma de monitoramento, verifique o SAT configurado!
