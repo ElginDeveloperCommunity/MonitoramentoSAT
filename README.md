@@ -24,3 +24,4 @@ A plataforma conta com varias funcionalidades e abaixo segue uma relação de ta
   No ambiente windows basta abrir o executável `ConfiguradorLibMonitoramento.exe` presente nesse repositório, preencha os dados conforme solicitado e ao fim Salve. Feito isso o SAT já pode ser monitorado, abra o software de automação e a plataforma de monitoramento, verifique o SAT configurado!
   
 [Vídeo tutorial](https://www.youtube.com/watch?v=UP5dlKYgODw)
+
